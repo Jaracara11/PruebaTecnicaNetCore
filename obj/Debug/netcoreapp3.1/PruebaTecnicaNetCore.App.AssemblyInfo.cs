@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PruebaTecnicaNetCore.App")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4506c6a894f60cb3ebc0148f007fb1142221327d")]
 [assembly: System.Reflection.AssemblyProductAttribute("PruebaTecnicaNetCore.App")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PruebaTecnicaNetCore.App")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
