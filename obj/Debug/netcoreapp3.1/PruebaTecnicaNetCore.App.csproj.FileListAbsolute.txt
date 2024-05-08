@@ -1,0 +1,6 @@
+C:\Users\Luis Eduardo\source\repos\PruebaTecnicaNetCore\obj\Debug\netcoreapp3.1\PruebaTecnicaNetCore.App.csproj.AssemblyReference.cache
+C:\Users\Luis Eduardo\source\repos\PruebaTecnicaNetCore\obj\Debug\netcoreapp3.1\PruebaTecnicaNetCore.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Eduardo\source\repos\PruebaTecnicaNetCore\obj\Debug\netcoreapp3.1\PruebaTecnicaNetCore.App.AssemblyInfoInputs.cache
+C:\Users\Luis Eduardo\source\repos\PruebaTecnicaNetCore\obj\Debug\netcoreapp3.1\PruebaTecnicaNetCore.App.AssemblyInfo.cs
+C:\Users\Luis Eduardo\source\repos\PruebaTecnicaNetCore\obj\Debug\netcoreapp3.1\PruebaTecnicaNetCore.App.csproj.CoreCompileInputs.cache
+C:\Users\Luis Eduardo\source\repos\PruebaTecnicaNetCore\obj\Debug\netcoreapp3.1\PruebaTecnicaNetCore.App.MvcApplicationPartsAssemblyInfo.cache
