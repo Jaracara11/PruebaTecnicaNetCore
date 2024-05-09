@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PruebaTecnicaNetCore.Models")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ebb57c99b39d0e90b93ea0171480d1e66cf3fb4f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5792a26b488cb66ffd24cee5b963af1ac838d092")]
 [assembly: System.Reflection.AssemblyProductAttribute("PruebaTecnicaNetCore.Models")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PruebaTecnicaNetCore.Models")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
