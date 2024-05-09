@@ -1,26 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Luis Eduardo\\source\\repos\\PruebaTecnicaNetCore\\",
+  "WorkspaceRootPath": "C:\\Users\\Luis Eduardo\\source\\repos\\PruebaTecnicaNetCore.App\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4FAB7091-B47D-423B-9D90-72D34391AB76}|PruebaTecnicaNetCore.App.csproj|c:\\users\\luis eduardo\\source\\repos\\pruebatecnicanetcore\\controllers\\articlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FAB7091-B47D-423B-9D90-72D34391AB76}|PruebaTecnicaNetCore.App.csproj|solutionrelative:controllers\\articlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88282EA2-C81A-41F3-9F2E-313B2D68C6B4}|Solution Items{88282EA2-C81A-41F3-9F2E-313B2D68C6B4}|C:\\Users\\Luis Eduardo\\source\\repos\\PruebaTecnicaNetCore.App\\PruebaTecnicaNetCore.App\\PruebaTecnicaNetCore.App.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{88282EA2-C81A-41F3-9F2E-313B2D68C6B4}|Solution Items{88282EA2-C81A-41F3-9F2E-313B2D68C6B4}|solutionrelative:PruebaTecnicaNetCore.App\\PruebaTecnicaNetCore.App.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DCC73574-C289-466B-99F5-BE4BB8011782}|..\\PruebaTecnicaNetCore.Repository\\PruebaTecnicaNetCore.Repository.csproj|c:\\users\\luis eduardo\\source\\repos\\pruebatecnicanetcore.repository\\repositories\\articlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88282EA2-C81A-41F3-9F2E-313B2D68C6B4}|Solution Items{88282EA2-C81A-41F3-9F2E-313B2D68C6B4}|C:\\Users\\Luis Eduardo\\source\\repos\\PruebaTecnicaNetCore.App\\PruebaTecnicaNetCore.Repository\\PruebaTecnicaNetCore.Repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{88282EA2-C81A-41F3-9F2E-313B2D68C6B4}|Solution Items{88282EA2-C81A-41F3-9F2E-313B2D68C6B4}|solutionrelative:PruebaTecnicaNetCore.Repository\\PruebaTecnicaNetCore.Repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22776900-94B9-4F67-B010-9F3CB04E44E0}|..\\PruebaTecnicaNetCore.Models\\PruebaTecnicaNetCore.Models.csproj|c:\\users\\luis eduardo\\source\\repos\\pruebatecnicanetcore.models\\dbresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22776900-94B9-4F67-B010-9F3CB04E44E0}|..\\PruebaTecnicaNetCore.Models\\PruebaTecnicaNetCore.Models.csproj|c:\\users\\luis eduardo\\source\\repos\\pruebatecnicanetcore.models\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DCC73574-C289-466B-99F5-BE4BB8011782}|..\\PruebaTecnicaNetCore.Repository\\PruebaTecnicaNetCore.Repository.csproj|c:\\users\\luis eduardo\\source\\repos\\pruebatecnicanetcore.repository\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FAB7091-B47D-423B-9D90-72D34391AB76}|PruebaTecnicaNetCore.App.csproj|c:\\users\\luis eduardo\\source\\repos\\pruebatecnicanetcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4FAB7091-B47D-423B-9D90-72D34391AB76}|PruebaTecnicaNetCore.App.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{88282EA2-C81A-41F3-9F2E-313B2D68C6B4}|Solution Items{88282EA2-C81A-41F3-9F2E-313B2D68C6B4}|C:\\Users\\Luis Eduardo\\source\\repos\\PruebaTecnicaNetCore.App\\PruebaTecnicaNetCore.Models\\PruebaTecnicaNetCore.Models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{88282EA2-C81A-41F3-9F2E-313B2D68C6B4}|Solution Items{88282EA2-C81A-41F3-9F2E-313B2D68C6B4}|solutionrelative:PruebaTecnicaNetCore.Models\\PruebaTecnicaNetCore.Models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,78 +34,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DbResponse.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Eduardo\\source\\repos\\PruebaTecnicaNetCore.Models\\DbResponse.cs",
-              "RelativeDocumentMoniker": "..\\PruebaTecnicaNetCore.Models\\DbResponse.cs",
-              "ToolTip": "C:\\Users\\Luis Eduardo\\source\\repos\\PruebaTecnicaNetCore.Models\\DbResponse.cs",
-              "RelativeToolTip": "..\\PruebaTecnicaNetCore.Models\\DbResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T18:32:44.909Z",
+              "DocumentIndex": 0,
+              "Title": "PruebaTecnicaNetCore.App.csproj",
+              "DocumentMoniker": "C:\\Users\\Luis Eduardo\\source\\repos\\PruebaTecnicaNetCore.App\\PruebaTecnicaNetCore.App\\PruebaTecnicaNetCore.App.csproj",
+              "RelativeDocumentMoniker": "PruebaTecnicaNetCore.App\\PruebaTecnicaNetCore.App.csproj",
+              "ToolTip": "C:\\Users\\Luis Eduardo\\source\\repos\\PruebaTecnicaNetCore.App\\PruebaTecnicaNetCore.App\\PruebaTecnicaNetCore.App.csproj",
+              "RelativeToolTip": "PruebaTecnicaNetCore.App\\PruebaTecnicaNetCore.App.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-09T02:27:21.432Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ArticleRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Eduardo\\source\\repos\\PruebaTecnicaNetCore.Repository\\Repositories\\ArticleRepository.cs",
-              "RelativeDocumentMoniker": "..\\PruebaTecnicaNetCore.Repository\\Repositories\\ArticleRepository.cs",
-              "ToolTip": "C:\\Users\\Luis Eduardo\\source\\repos\\PruebaTecnicaNetCore.Repository\\Repositories\\ArticleRepository.cs",
-              "RelativeToolTip": "..\\PruebaTecnicaNetCore.Repository\\Repositories\\ArticleRepository.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAewBAAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T18:34:57.262Z",
+              "Title": "PruebaTecnicaNetCore.Repository.csproj",
+              "DocumentMoniker": "C:\\Users\\Luis Eduardo\\source\\repos\\PruebaTecnicaNetCore.App\\PruebaTecnicaNetCore.Repository\\PruebaTecnicaNetCore.Repository.csproj",
+              "RelativeDocumentMoniker": "PruebaTecnicaNetCore.Repository\\PruebaTecnicaNetCore.Repository.csproj",
+              "ToolTip": "C:\\Users\\Luis Eduardo\\source\\repos\\PruebaTecnicaNetCore.App\\PruebaTecnicaNetCore.Repository\\PruebaTecnicaNetCore.Repository.csproj",
+              "RelativeToolTip": "PruebaTecnicaNetCore.Repository\\PruebaTecnicaNetCore.Repository.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-09T02:27:09.043Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Articulo.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Eduardo\\source\\repos\\PruebaTecnicaNetCore.Models\\Articulo.cs",
-              "RelativeDocumentMoniker": "..\\PruebaTecnicaNetCore.Models\\Articulo.cs",
-              "ToolTip": "C:\\Users\\Luis Eduardo\\source\\repos\\PruebaTecnicaNetCore.Models\\Articulo.cs",
-              "RelativeToolTip": "..\\PruebaTecnicaNetCore.Models\\Articulo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T18:26:40.282Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ArticleController.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Eduardo\\source\\repos\\PruebaTecnicaNetCore\\Controllers\\ArticleController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ArticleController.cs",
-              "ToolTip": "C:\\Users\\Luis Eduardo\\source\\repos\\PruebaTecnicaNetCore\\Controllers\\ArticleController.cs",
-              "RelativeToolTip": "Controllers\\ArticleController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T18:26:51.971Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Luis Eduardo\\source\\repos\\PruebaTecnicaNetCore\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Luis Eduardo\\source\\repos\\PruebaTecnicaNetCore\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-08T18:19:46.585Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Eduardo\\source\\repos\\PruebaTecnicaNetCore.Repository\\DbContext.cs",
-              "RelativeDocumentMoniker": "..\\PruebaTecnicaNetCore.Repository\\DbContext.cs",
-              "ToolTip": "C:\\Users\\Luis Eduardo\\source\\repos\\PruebaTecnicaNetCore.Repository\\DbContext.cs",
-              "RelativeToolTip": "..\\PruebaTecnicaNetCore.Repository\\DbContext.cs",
+              "DocumentIndex": 2,
+              "Title": "PruebaTecnicaNetCore.Models.csproj",
+              "DocumentMoniker": "C:\\Users\\Luis Eduardo\\source\\repos\\PruebaTecnicaNetCore.App\\PruebaTecnicaNetCore.Models\\PruebaTecnicaNetCore.Models.csproj",
+              "RelativeDocumentMoniker": "PruebaTecnicaNetCore.Models\\PruebaTecnicaNetCore.Models.csproj",
+              "ToolTip": "C:\\Users\\Luis Eduardo\\source\\repos\\PruebaTecnicaNetCore.App\\PruebaTecnicaNetCore.Models\\PruebaTecnicaNetCore.Models.csproj",
+              "RelativeToolTip": "PruebaTecnicaNetCore.Models\\PruebaTecnicaNetCore.Models.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T18:19:00.58Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-09T02:26:54.414Z",
+              "EditorCaption": ""
             }
           ]
         }
